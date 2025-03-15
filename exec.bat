@@ -1,5 +1,5 @@
 echo off
 cls
-title Personal Files
+title Encript and Decrypt
 python3 ./cript.py
 pause>nul
