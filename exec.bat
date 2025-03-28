@@ -1,5 +1,4 @@
 echo off
 cls
 title Encript and Decrypt
-python3 ./cript.py
-pause>nul
+python3 ./endec-v2.py
